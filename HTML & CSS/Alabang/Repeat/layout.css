@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(77, 21, 21);
+    color: rgb(224, 225, 168);
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 35px;
+    font-family: sans-serif;
+    line-height: 70px;
+}
+p{
+    word-spacing: 2px;
+    line-height: 2px;
+}
+
+h2{
+    line-height: 60px;
+    font-size: 30px;
+}
+ul{
+    width: fit-content; 
+    margin: auto;
+    text-align: left;
+    border: 2px solid white; 
+    border-radius: 15px; 
+    padding: 20px;
+    line-height: 20px;
+}
+input{
+    margin-bottom: 20px;
+}
